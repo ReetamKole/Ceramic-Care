@@ -43,7 +43,7 @@ Ceramic Care is an e-commerce platform designed for users to explore, purchase, 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/921aa2ae-3f7f-4636-879a-ffd776e88734" width="45%" />
+  <img src="https://github.com/user-attachments/assets/921aa2ae-3f7f-4636-879a-ffd776e88734" width="50%" />
   <img src="https://github.com/user-attachments/assets/ec88f763-b389-4247-ab2e-1c812ea64e71" width="45%" />
 </p>
 
@@ -60,12 +60,11 @@ Ceramic Care is an e-commerce platform designed for users to explore, purchase, 
    ```
 4. Open a Pull Request.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 📞 Contact
 For any queries or contributions, feel free to reach out:
 - **Developer**: Reetam Kole
-- **Email**: (Your Email Address)
+- **Email**: rnmkole@gmail.com
 - **GitHub**: [ReetamKole](https://github.com/ReetamKole)
 
