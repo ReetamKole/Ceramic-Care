@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\SRM\sem4\DBMS project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\278397156.index
+\shopping-cart\src
+C:\SRM\sem4\DBMS project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3841129941.index
+\shopping-cart\src

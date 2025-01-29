@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\SRM\sem4\DBMS project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+579404460.index
+647111260.index
+2125585817.index
+1277774553.index
+1303763517.index
